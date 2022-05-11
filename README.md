@@ -19,7 +19,7 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/Abhishek069/JesonPowerDB/blob/main/public_html/Screenshot%20(49).png)
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
