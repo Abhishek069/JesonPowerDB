@@ -21,7 +21,7 @@
 
 ![Dashboard](https://github.com/Abhishek069/JesonPowerDB/blob/main/public_html/Screenshot%20(49).png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page](https://github.com/Abhishek069/JesonPowerDB/blob/main/public_html/Screenshot%20(47).png)
 
 ![Visualize](https://github.com/Abhishek069/JesonPowerDB/blob/main/public_html/Screenshot%20(48).png)
 
