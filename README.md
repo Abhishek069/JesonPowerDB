@@ -23,5 +23,5 @@
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
-![Visualize]()
+![Visualize](https://github.com/Abhishek069/JesonPowerDB/blob/main/public_html/Screenshot%20(48).png)
 
